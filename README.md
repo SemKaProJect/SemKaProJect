@@ -1,1 +1,1 @@
-### 💾 Это GitHub SemKaProJect 💾
+### 💾 Это GitHub SemKa Project 💾
